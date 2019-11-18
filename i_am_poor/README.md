@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Resources I used
+
+http://canvas.com: Making a logo or icon for app presentation 
+https://icons8.com/ouch: Find something nice for content in the app
+https://appicon.co/: Icon generators for app presentation
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
