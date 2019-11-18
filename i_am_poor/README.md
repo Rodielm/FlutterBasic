@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Resources I used
 
-http://canvas.com: Making a logo or icon for app presentation. 
+http://canva.com: Making a logo or icon for app presentation. 
 
 https://icons8.com/ouch: Find something nice for content in the app.
 
